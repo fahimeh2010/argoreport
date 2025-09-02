@@ -1,1 +1,1 @@
-# argoreport
+# ArgoCDreport
